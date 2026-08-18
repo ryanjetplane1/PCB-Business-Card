@@ -6,3 +6,4 @@ Schematic:
 <img width="573" height="951" alt="image" src="https://github.com/user-attachments/assets/fdf1e740-b187-40a1-a813-6a538c9637cf" />
 PCB layout:
 <img width="1487" height="892" alt="image" src="https://github.com/user-attachments/assets/ab9c3e56-a2d8-4b5b-8961-18b0c7666014" />
+This project was made for the nonprofit Hack Club as an easy PCB design so thank you guys for sponsoring me!
