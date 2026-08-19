@@ -25,4 +25,4 @@ BOM:
 | 4 | NT3H2111W0FHKH | U1 | XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH | 1 | NT3H2111W0FHKH | NXP(恩智浦) | LCSC | C710403 | 0.63 | 8 | *None* | LCSC | Extended Part | [Link](https://nxp.com) |
 | 5 | Antenna | U3 | 25X48MM_NFC_ANTENNA | 1 | *None* | *None* | *None* | *None* | *None* | 2 | *None* | maggie.j.liu | *None* | *None* |
 
-This project was made for the nonprofit Hack Club as an easy PCB design so thank you guys for sponsoring me!
+This project was made for the nonprofit Hack Club as an "easy" PCB design so thank you guys for sponsoring me!
