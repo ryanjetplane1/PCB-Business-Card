@@ -20,5 +20,6 @@ After that, I finished up with some JLCPCB board thickness changes and added my 
 Kai was evil so I updated the entire board
 <br>
 <img width="1176" height="731" alt="image" src="https://github.com/user-attachments/assets/c98e632f-bf3c-47ae-9f2a-f344461fc776" />
+Long run down of this after finishing, I started with photopea for adding details and drew my own icons and stuff. After I had to update again and was able to add cool cyberpunk lines across the board. Then finally I downloaded everything and finished.
 
 **Total time spent: 5h**
