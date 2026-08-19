@@ -7,7 +7,7 @@ created_at: "2026-08-18"
 
 # AUG 18th: Speedrunning the PCB and drawing art for it.
 
-Got the base pcb down after about an hour and a half.
+Got the base pcb down after a little while.
 Then added art from the Hack Club brand site and Google Images.
 I did have some issues with the imports so I manually removed and converted them into the monochrome colors I wanted.
 
