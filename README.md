@@ -1,12 +1,13 @@
 # PCB-Business-Card
 PCB Business Card is a simple NFC tap card that can transmit info such as links.
 The onboard chip is a dedicated NT3 meant for NFC. Power is taken from the device touching the antenna.
-Base images (Can be customized however)
-<img width="1785" height="1099" alt="image" src="https://github.com/user-attachments/assets/ad0f3ba8-beb7-497a-8289-10d7a9d678e1" />
+<img width="1709" height="1073" alt="image" src="https://github.com/user-attachments/assets/fa2afdff-ce31-4a42-ab32-abc450cd8efa" />
+
 Schematic:
 <img width="573" height="951" alt="image" src="https://github.com/user-attachments/assets/fdf1e740-b187-40a1-a813-6a538c9637cf" />
 PCB layout:
-<img width="1487" height="892" alt="image" src="https://github.com/user-attachments/assets/ab9c3e56-a2d8-4b5b-8961-18b0c7666014" />
+<img width="1395" height="857" alt="image" src="https://github.com/user-attachments/assets/2e6429a3-053f-4c29-ba33-f23c7f0ec4dd" />
+
 BOM:
 ﻿
 | ID | Name | Designator | Footprint | Quantity | Manufacturer Part | Manufacturer | Supplier | Supplier Part | Price | Pins | 3DModel | Contributor | JLCPCB Part Class | link |
