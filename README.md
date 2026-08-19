@@ -11,6 +11,7 @@ Schematic:
 
 PCB layout:
 <img width="1386" height="827" alt="image" src="https://github.com/user-attachments/assets/c6028d38-8810-4fb2-9676-e93b53eeab3a" />
+<img width="1176" height="731" alt="image" src="https://github.com/user-attachments/assets/491841e6-654a-4747-9906-155efdf12db9" />
 
 
 
