@@ -16,7 +16,9 @@ After that, I finished up with some JLCPCB board thickness changes and added my 
 <img width="525" height="377" alt="image" src="https://github.com/user-attachments/assets/2ad575be-cb0d-4e91-8a20-aecf8319294c" />
 <img width="1842" height="1192" alt="image" src="https://github.com/user-attachments/assets/a5c3474b-af54-4b71-999a-d86b59c29870" />
 <img width="421" height="265" alt="image" src="https://github.com/user-attachments/assets/9ea00a82-1f48-49cd-93c6-3e0fdb17bb67" />
+<br>
 Kai was evil so I updated the entire board
+<br>
 <img width="1176" height="731" alt="image" src="https://github.com/user-attachments/assets/c98e632f-bf3c-47ae-9f2a-f344461fc776" />
 
 **Total time spent: 5h**
