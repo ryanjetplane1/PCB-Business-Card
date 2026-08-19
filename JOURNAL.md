@@ -14,6 +14,8 @@ I did have some issues with the imports so I manually removed and converted them
 After that, I finished up with some JLCPCB board thickness changes and added my own art.
 <img width="1063" height="794" alt="image" src="https://github.com/user-attachments/assets/3f73a102-c680-4a6f-96dc-e703ea7e4f49" />
 <img width="525" height="377" alt="image" src="https://github.com/user-attachments/assets/2ad575be-cb0d-4e91-8a20-aecf8319294c" />
+<img width="1842" height="1192" alt="image" src="https://github.com/user-attachments/assets/a5c3474b-af54-4b71-999a-d86b59c29870" />
+<img width="421" height="265" alt="image" src="https://github.com/user-attachments/assets/9ea00a82-1f48-49cd-93c6-3e0fdb17bb67" />
 
 
 **Total time spent: 3h**
