@@ -2,6 +2,7 @@
 PCB Business Card is a simple NFC tap card that can transmit info such as links.
 The onboard chip is a dedicated NT3 meant for NFC. Power is taken from the device touching the antenna.
 <img width="1774" height="1048" alt="image" src="https://github.com/user-attachments/assets/3224da0f-a73d-49e3-b49d-3de24451d1d7" />
+<img width="1491" height="902" alt="image" src="https://github.com/user-attachments/assets/0a1fbf35-592b-43d6-bca8-69a7b0f3cd74" />
 
 
 Schematic:
