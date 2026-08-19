@@ -6,6 +6,7 @@ created_at: "2026-08-18"
 ---
 
 # AUG 18th: Speedrunning the PCB and drawing art for it.
+<img width="610" height="766" alt="image" src="https://github.com/user-attachments/assets/0c9c2569-eab5-4259-a74e-3714e433c396" />
 
 Got the base PCB and schematic down after a little while.
 Then added art from the Hack Club brand site and Google Images.
